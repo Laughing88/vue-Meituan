@@ -98,7 +98,7 @@
 
 ``` bash
 # clone the repo into your disk.
-$ git clone https://github.com/bxm0927/vue-meituan.git
+$ git clone https://github.com/Laughing88/vue-Meituan.git
 
 # install dependencies
 $ npm install
